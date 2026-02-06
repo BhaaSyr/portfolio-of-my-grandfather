@@ -23,4 +23,4 @@
 
 **Live Demo:**  
 [(رابط الموقع)
-](https://slateblue-frog-376304.hostingersite.com/wp-admin/customize.php?theme=grandf-profile&return=https%3A%2F%2Fslateblue-frog-376304.hostingersite.com%2Fwp-admin%2Fthemes.php)
+](https://slateblue-frog-376304.hostingersite.com/)
